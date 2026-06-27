@@ -1,6 +1,5 @@
 # Réalisation Par Monitor
 
-[中文说明](./README_zh-CN.md)
 
 A serverless background agent that watches a fashion retailer's website and
 Gmail inbox for two things ordinary browsing habits miss: sitewide sale
